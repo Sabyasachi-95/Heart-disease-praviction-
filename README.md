@@ -1,2 +1,2 @@
-# Heart-disease-pradiction-
+# Heart-pradiction-
 This a web applitaion
